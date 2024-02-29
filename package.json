@@ -1,0 +1,8 @@
+{
+  "name": "project-init-style",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:qinmingjie/project-init-style.git",
+  "author": "qinmingjie <1934394876@qq.com>",
+  "license": "MIT"
+}
