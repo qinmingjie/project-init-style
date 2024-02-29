@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "git@github.com:qinmingjie/project-init-style.git",
   "author": "qinmingjie <1934394876@qq.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^3.2.5"
+  }
 }
