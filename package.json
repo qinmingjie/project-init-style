@@ -6,6 +6,8 @@
   "author": "qinmingjie <1934394876@qq.com>",
   "license": "MIT",
   "devDependencies": {
+    "@commitlint/cli": "^19.0.3",
+    "@commitlint/config-conventional": "^19.0.3",
     "commitizen": "^4.3.0",
     "cz-conventional-changelog": "^3.3.0",
     "eslint": "^7.32.0 || ^8.2.0",
